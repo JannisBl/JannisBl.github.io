@@ -98,7 +98,9 @@ layout: default
                 {% when 'work' %}
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
-                  {% include resume/volunteer.liquid %}
+		  {% include resume/volunteer.liquid %}
+                {% when 'applied Projects' %}
+                  {% include resume/projects.liquid %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}

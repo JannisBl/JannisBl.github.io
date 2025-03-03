@@ -1,18 +1,18 @@
 {
   "work": [
     {
-      "name": "Institute for Operations Research, ETH Zurich",
+      "name": "Institute for Operations Research, ETH Zurich, Zurich, Switzerland",
       "position": "Postdoctoral Researcher",
       "startDate": "2025"
     },
     {
-      "name": "Research Institute for Discrete Mathematics, University of Bonn",
+      "name": "Research Institute for Discrete Mathematics, University of Bonn, Bonn, Germany",
       "position": "PhD Student",
       "startDate": "2020",
       "endDate": "2024"
     },
     {
-      "name": "Research Institute for Discrete Mathematics, University of Bonn",
+      "name": "Research Institute for Discrete Mathematics, University of Bonn, Bonn, Germany",
       "position": "Student Research Assistant",
       "startDate": "2019",
       "endDate": "2020"
@@ -20,8 +20,8 @@
   ],
   "education": [
     {
-      "institution": "University of Bonn",
-      "studyType": "Dr. rer. nat.",
+      "institution": "University of Bonn, Bonn, Germany",
+      "studyType": "Dr. rer. nat. Mathematics",
       "startDate": "2020",
       "endDate": "2024",
       "score": "0.0 (summa cum laude)",
@@ -29,15 +29,15 @@
       "url": "https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/11947"
     },
     {
-      "institution": "University of Bonn",
-      "studyType": "M. Sc.",
+      "institution": "University of Bonn, Bonn, Germany",
+      "studyType": "M. Sc. Mathematics",
       "startDate": "2018", 
       "endDate": "2020", 
       "score": "1.1"
     },
     {
-      "institution": "University of Bonn",
-      "studyType": "B. Sc.",
+      "institution": "University of Bonn, Bonn, Germany",
+      "studyType": "B. Sc. Mathematics",
       "startDate": "2015",
       "endDate": "2018",
       "score": "1.6"      
@@ -48,16 +48,16 @@
       "title": "Best Paper Award",
       "date": "2021",
       "awarder": "22nd Conference on Integer Programming and Combinatorial Optimization (IPCO '21)",
-      "summary": "Jannis Blauth, Vera Traub, and Jens Vygen. Improving the approximation ratio for capacitated vehicle routing."
+      "summary": "Improving the approximation ratio for capacitated vehicle routing.",
+      "names": "Jannis Blauth, Vera Traub, and Jens Vygen."
     }
   ],
-  "projects": [
+  "applied Projects": [
     {
       "name": "Combinatorial Optimization for Applications in Delivery Services",
-      "summary": "Development and implementation of algorithms for routing problems in cooperation with Deutsche Post DHL and Greenplan.",
+      "summary": "Development and implementation of algorithms for routing problems in cooperation with Deutsche Post DHL and <a href='https://greenplan.de/de/'>Greenplan</a>.",
       "startDate": "2019",
-      "endDate": "2024",
-      "url": "https://greenplan.de/de/"
+      "endDate": "2024"
     }
   ]
 }
