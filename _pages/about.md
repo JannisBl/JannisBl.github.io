@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Institute for Operations Research, ETH Zurich. jblauth@ethz.ch
+subtitle: "<a href='https://math.ethz.ch/ifor'>Institute for Operations Research</a>, ETH Zurich. E-Mail: jblauth@ethz.ch"
 
 profile:
   align: right
