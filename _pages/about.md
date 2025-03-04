@@ -24,4 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-In February 2025, I joined the group of Rico Zenklusen as a Postdoctoral Researcher at ETH Zurich. My main research interest is the study of problems in combinatorial optimization. On one hand, I am interested in their computational hardness and in the design of approximation algorithms. On the other hand, I am interested in modelling real-world problems and implementing efficient algorithms that yield good solution on real-world instances.
+In February 2025, I joined the group of Rico Zenklusen as a Postdoctoral Researcher at the Institute for Operations Research at ETH Zurich. In 2024, I completed my PhD at the University of Bonn under the supervision of my PhD advisor, Jens Vygen. 
+
+My main research interests lie in combinatorial optimization, with a particular focus on the design of approximation algorithms. In addition, I am interested in modeling real-world problems and developing efficient heuristics to address them.
+
+For more details, check out my CV and publication list.
