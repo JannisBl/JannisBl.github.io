@@ -16,7 +16,7 @@
       "position": "Student Research Assistant",
       "startDate": "2019",
       "endDate": "2020"
-    }    
+    }
   ],
   "education": [
     {
@@ -25,14 +25,17 @@
       "startDate": "2020",
       "endDate": "2024",
       "score": "0.0 (summa cum laude)",
-      "courses": ["PhD Thesis: <a href='https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/11947'>Vehicle Routing in Theorie and Practice</a>", "PhD Advisor: Jens Vygen"],
+      "courses": [
+        "PhD Thesis: <a href='https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/11947'>Vehicle Routing in Theorie and Practice</a>",
+        "PhD Advisor: Jens Vygen"
+      ],
       "url": "https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/11947"
     },
     {
       "institution": "University of Bonn, Bonn, Germany",
       "studyType": "M. Sc. Mathematics",
-      "startDate": "2018", 
-      "endDate": "2020", 
+      "startDate": "2018",
+      "endDate": "2020",
       "score": "1.1"
     },
     {
@@ -40,7 +43,7 @@
       "studyType": "B. Sc. Mathematics",
       "startDate": "2015",
       "endDate": "2018",
-      "score": "1.6"      
+      "score": "1.6"
     }
   ],
   "awards": [

@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-In February 2025, I joined the group of Rico Zenklusen as a Postdoctoral Researcher at the Institute for Operations Research at ETH Zurich. In 2024, I completed my PhD at the University of Bonn under the supervision of my PhD advisor, Jens Vygen. 
+In February 2025, I joined the group of Rico Zenklusen as a Postdoctoral Researcher at the Institute for Operations Research at ETH Zurich. In 2024, I completed my PhD at the University of Bonn under the supervision of my PhD advisor, Jens Vygen.
 
 My main research interests lie in combinatorial optimization, with a particular focus on the design of approximation algorithms. In addition, I am interested in modeling real-world problems and developing efficient heuristics to address them.
 
