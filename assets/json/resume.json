@@ -57,8 +57,20 @@
   ],
   "applied Projects": [
     {
+      "name": "Pulse Pattern Optimization for Laser Ablation",
+      "summary": "Development and implementation of algorithms for optimization problems in eye laser surgery in cooperation with <a href='https://www.ziemergroup.com/chde/'>Ziemer Ophthalmic Systems AG</a>.",
+      "startDate": "2025",
+      "endDate": "2025"
+    },
+    {
       "name": "Combinatorial Optimization for Applications in Delivery Services",
       "summary": "Development and implementation of algorithms for routing problems in cooperation with Deutsche Post DHL and <a href='https://greenplan.de/de/'>Greenplan</a>.",
+      "startDate": "2019",
+      "endDate": "2024"
+    },
+    {
+      "name": "Chip Design",
+      "summary": "Participation in a weekly seminar on recent developments and challenges in the collaboration between the University of Bonn and <a href='https://www.ibm.com/us-en'>IBM</a>.",
       "startDate": "2019",
       "endDate": "2024"
     }
