@@ -311,6 +311,7 @@ DEPENDENCIES
   jemoji
   observer
   ostruct
+  webrick (~> 1.9)
 
 RUBY VERSION
    ruby 3.3.9p170
